@@ -1,0 +1,6 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.println("OUI UOI LE BAGUETTE TRES YUMMY");
+    System.out.println("java buggy");
+  }
+}
